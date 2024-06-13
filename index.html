@@ -1,7 +1,79 @@
-<html>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manish Kumar Govind</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin-top: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .profile-pic {
+            float: left;
+            width: 150px;
+            height: 150px;
+            margin-right: 20px;
+            border-radius: 50%;
+            overflow: hidden;
+        }
+        .profile-pic img {
+            width: 100%;
+            height: auto;
+        }
+        .clearfix::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+    </style>
+</head>
 <body>
-  <h1>Manish Kumar Govind</h1>
-  <p>Welcome to my website!</p> 
+    <div class="container">
+        <div class="profile-pic">
+            <img src="profile-pic.jpg" alt="John Doe">
+        </div>
+        <div class="clearfix">
+            <h1>John Doe</h1>
+            <h2>Master's Student in Computer Science</h2>
+            <p>
+                Welcome to my personal bio page! I am a master's student at XYZ University, specializing in artificial intelligence and machine learning. My research interests include natural language processing, computer vision, and data science.
+            </p>
+            <p>
+                I have a background in software development, having worked with various programming languages and frameworks. I am passionate about leveraging technology to solve real-world problems and am always eager to learn and collaborate on innovative projects.
+            </p>
+            <p>
+                Feel free to explore my projects and publications below. You can also connect with me on <a href="https://linkedin.com/in/johndoe">LinkedIn</a>.
+            </p>
+        </div>
+        <h2>Projects</h2>
+        <ul>
+            <li><a href="https://github.com/johndoe/project1">Project 1</a> - Description of project 1.</li>
+            <li><a href="https://github.com/johndoe/project2">Project 2</a> - Description of project 2.</li>
+            <li><a href="https://github.com/johndoe/project3">Project 3</a> - Description of project 3.</li>
+        </ul>
+        <h2>Publications</h2>
+        <ul>
+            <li><a href="https://example.com/publication1">Publication 1</a> - Description of publication 1.</li>
+            <li><a href="https://example.com/publication2">Publication 2</a> - Description of publication 2.</li>
+            <li><a href="https://example.com/publication3">Publication 3</a> - Description of publication 3.</li>
+        </ul>
+    </div>
 </body>
 </html>
