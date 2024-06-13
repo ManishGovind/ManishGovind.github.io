@@ -27,15 +27,15 @@ I'm a passionate computer science enthusiast currently pursuing my M.S in Comput
 ## Projects
 
   
-## Publications
-- 
+<!-- ## Publications
+-  -->
   
 
 <!-- ## 💡 News  -->
 
 
-## 📐Organizer
-- Seminar Organizer for ITSC 8699 -Graduate Resaerch Seminar  @ University of North Carolina Charotte. (If you are willing to present your work you can contact me)
+<!-- ## 📐Organizer
+- Seminar Organizer for ITSC 8699 -Graduate Resaerch Seminar  @ University of North Carolina Charotte. (If you are willing to present your work you can contact me) -->
 
 ## Contact
 - mgovind@charlotte.edu
