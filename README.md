@@ -23,8 +23,8 @@ I'm a passionate computer science enthusiast currently pursuing my M.S in Comput
 <!-- ## 📝 Teaching experience
 - `Jan 2023- May 2023` Teaching Assistant for CSC 7760- Deep Learning and CSC 5750- Principles of Web Technologies @ Wayne State University,Detroit,USA -->
 
-
-## Projects
+<!-- 
+## Projects -->
 
   
 <!-- ## Publications
